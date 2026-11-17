@@ -4,11 +4,11 @@
 
 # Apptic
 
-Apptic est un studio de développement indépendant installé à Angleur, près de Liège. Il conçoit, développe et héberge des logiciels sur mesure pour des PME, des ASBL, des CPAS et des communes.
+Apptic conçoit, développe et héberge des logiciels métier et des applications sur mesure pour des PME, des ASBL, des CPAS et des communes. Studio indépendant installé à Angleur, près de Liège.
 
 Site : [apptic.be](https://apptic.be) · Contact : info@apptic.be
 
-> Le code source de ces projets n'est pas publié.
+> Ces dépôts présentent les projets, leurs fonctionnalités et leurs évolutions. Les codes sources restent propriétaires.
 
 ## Projets
 
